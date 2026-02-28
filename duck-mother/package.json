@@ -1,0 +1,21 @@
+{
+  "name": "duck-mother",
+  "displayName": "duck mother",
+  "description": "a extension of gundam character Char",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Char Aznable",
+        "uiTheme": "hc-black",
+        "path": "./themes/Char Aznable-color-theme.json"
+      }
+    ]
+  }
+}
